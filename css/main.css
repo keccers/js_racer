@@ -99,18 +99,24 @@ textarea {
 
 .racer_table td {
     background-color: pink;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     border-left: 1px solid black;
 }
 
 #player1_strip .active {
-    background-color: black;
+    background-image: url('../img/zoolander.jpg');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
 }
 
 #player2_strip .active {
-    background-color: green;
+    background-image: url('../img/hansel.jpg');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
 }
+
+
 
 
 
